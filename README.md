@@ -2,6 +2,8 @@
 
 Dead-simple secret sharing with an AI agent. It uses Cloudflare's free Quick Tunnels to generate a single-use URL hosted on the agent's machine, so you can securely drop a secret, password, or credential—then have it disappear.
 
+![Secure Secret Drop form](assets/secure-secret-drop.png)
+
 ## Requirements
 
 - A local AI agent that can run shell commands and read a `SKILL.md`
