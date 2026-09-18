@@ -18,15 +18,11 @@ npx skills add moeadham/secure-secret-drop
 
 ## Use it
 
-Ask your agent naturally:
+Just say:
 
-> Create a secure secret drop for `OPENAI_API_KEY` and save it to `/path/to/project/.env`.
+> Send me a secure drop link.
 
-Your agent will send you a temporary link. Open it, enter the value, submit once, and reply that you are done.
-
-You can also request multiple fields or JSON output:
-
-> Create a secure secret drop for `CLIENT_ID` and `CLIENT_SECRET`, then save them to `/path/to/config.json`.
+Your agent will send you a temporary, single-use link. Open it, enter the requested secret, submit it, and reply that you are done.
 
 ## What to expect
 
